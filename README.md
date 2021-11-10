@@ -15,7 +15,8 @@ You will need to join a Twitch follow bot Discord server to run this bot.
 - Download the files [here](https://github.com/thomaskeig/AutoTwitchFollowBot/archive/refs/heads/main.zip) and unzip the folder.
 - Open up command prompt (or command line if you're using linux) and install the required packages, `discord` and `pyyaml`. You can do this by using the command `pip install discord && pip install pyyaml` on Windows and `sudo pip install discord && sudo pip install pyyaml` on Linux.
 - Open `settings.yml` and change the settings to suit your needs. If you are not in a follow bot server yet, you can find a list below.
-- Run the bot by opening up command promt in the folder that `main.py` is located in and type `python main.py`. You will be asked how many followers you want approximattely. Type in the number you wish for and hit enter. The bot will now give you followers based on the settings you have previously set and show you statistics along the way.
+- Run the bot by opening up command promt in the folder that `main.py` is located in and type `python main.py`.
+- You will be asked how many followers you want approximately. Type in the number you wish for and hit enter. The bot will now give you followers based on the settings you have previously set and show you statistics along the way.
 
 ### But, are you going to steal my Discord token
 No, once you download the files I cannot see anything you change in the file. If you don't trust me you can always look at the source code!
