@@ -22,4 +22,8 @@ No, once you download the files I cannot see anything you change in the file. If
 
 ### Follow bot Discord Servers
 These servers are known to work pretty much 100% of the time:
-- https://discord.gg/4FPXmQn3c9 - Channel ID: 900152139240865822
+- https://discord.gg/4FPXmQn3c9
+- Message me on Twitter if you find any more (@thomaskeig_)
+
+### YouTube Tutorials
+If you make a YouTube tutorial on how to set this up, message me on Twitter at @thomaskeig_ and I'll leave a link here!
