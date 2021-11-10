@@ -8,7 +8,7 @@ This bot will log into your Discord account and send messages in any typical Twi
 You will need to join a Twitch follow bot Discord server to run this bot.
 
 ### Screenshots
-![Image 1](https://i.ibb.co/rHfnJmf/Screenshot-2021-11-10-180340.png)
+![Image 1](https://i.ibb.co/rHfnJmf/Screenshot-2021-11-10-180340.png)\
 ![Image 2](https://i.ibb.co/F3CftWF/Screenshot-2021-11-10-180321.png)
 
 ### How do I set this up?
