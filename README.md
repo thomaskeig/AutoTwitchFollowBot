@@ -1,7 +1,7 @@
 # AutoTwitchFollowBot
 Automatically send commands to send Twitch followers to any Twitch account. You just need to be in a Twitch follow bot Discord server!
 
-## This bot uses a self bot, which is against Discord's TOS. Only use this at your own risk or for educational purposes.
+> :warning: **This program uses a Discord self bot**: It is against Discord's TOS. Use this at your own risk or for educational purposes only.
 
 ### How does it work?
 This bot will log into your Discord account and send messages in any typical Twitch follow bot Discord server at set intervals. It will also automatically stop when it has reached the set amount of followers that you set when you run the bot.
