@@ -1,0 +1,29 @@
+#     _   _                               _        _
+#    | | | |                             | |      (_)
+#    | |_| |__   ___  _ __ ___   __ _ ___| | _____ _  __ _   ___ ___  _ __ ___
+#    | __| '_ \ / _ \| '_ ` _ \ / _` / __| |/ / _ \ |/ _` | / __/ _ \| '_ ` _ \
+#    | |_| | | | (_) | | | | | | (_| \__ \   <  __/ | (_| || (_| (_) | | | | | |
+#     \__|_| |_|\___/|_| |_| |_|\__,_|___/_|\_\___|_|\__, (_)___\___/|_| |_| |_|
+#                                                     __/ |
+#                                                    |___/
+
+# Edit your settings here and then run "main.py" to start!
+
+# Your Discord user token.
+# How do I find my Discord token? --> https://youtu.be/LnBnm_tZlyU
+user_token: XXXXXXXXXX
+
+# Command to use to send followers
+command: /tfollow ninja
+
+# Discord Channel ID to send the command in.
+# How do I find a channel ID?  --> https://youtu.be/YjiQ7CajAgg
+twitch_bot_channel: 999999999999999999
+
+# How many followers do you gain everytime you use the command.
+#This is used to calculate how long the process will take
+followers_per_command: 25
+
+# How long (IN MINUTES) you have to wait to use the command again
+# NOTE: This cannot be "0" but it can be any number above that, like "0.1".
+command_cooldown: 5
