@@ -36,7 +36,7 @@ async def on_ready():
 @tasks.loop(minutes=command_cooldown)
 async def get_followers():
     global times_to_run, followers_sent, command_cooldown
-    if times_to_run > 0:
+    if times_to_run > 1:
 
         channel = bot.get_channel(int(twitch_bot_channel))
         await channel.send(command)
